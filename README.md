@@ -1,2 +1,2 @@
 # golang_exercises
-some easy projects used to study golang
+some easy projects and useful datas used to study golang
